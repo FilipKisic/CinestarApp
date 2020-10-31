@@ -1,0 +1,2084 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movies>
+    <movies>
+        <movie id="2320">
+            <title>John Wick 3: Parabellum DI</title>
+            <originaltitle>John Wick: Chapter 3 - Parabellum</originaltitle>
+            <publisheddate/>
+            <description>U novom nastavku hita iz 2014. godine, legendarni plaćeni ubojica John Wick bježi zbog dva razloga. Love ga jer mu je za glavu raspisana tjeralica od 14 milijuna dolara te zato što je prekršio osnovno pravilo hotela Continental, a to je Ne ubij u hotelu. Ne samo to, već je žrtva bila član društva koje je naručilo Wickovu smrt, pa su stoga sve ubojice svijeta Wicku za petama. Premda je već trebao biti mrtav, Continentalov upravitelj Winston dao mu je jedan sat prije nego što ubojice krenu i Wick postane excommunicado. Prije nego što mu se opozove članstvo, zabrane sve usluge te ga se odsiječe od svih drugih članova, Wick će i kolcem i lancem i bokserom ići kroz sve druge kako bi pobjegao iz New Yorka i ostao živ. Naravno, Wickov pas kreće s njim u akciju i krvoločno napada sve one koji im se nađu na putu.</description>
+            <director>
+                <firstName>Chad</firstName>
+                <lastName>Stahelski</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Keanu</firstName>
+                    <lastName>Reeves</lastName>
+                </actor>
+                <actor>
+                    <firstName>Halle</firstName>
+                    <lastName>Berry</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jason</firstName>
+                    <lastName>Mantzoukas</lastName>
+                </actor>
+            </actors>
+            <duration>130</duration>
+            <genre>Akcijski, triler</genre>
+            <picturepath>assets\1973343185.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/john-wick-3-parabellum-di/7248//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2321">
+            <title>Kapetanica Marvel DI</title>
+            <originaltitle>Captain Marvel</originaltitle>
+            <publisheddate/>
+            <description>Priča Kapetanice Marvel prati razvoj Carol Denvers u jednu od najmoćnijih heroina Marvelovog filmskog svijeta u trenutku kad se Zemlja nalazi usred galaktičkog rata između dvije rase vanzemaljaca. Smještena u 1990-ima Kapetanica Marvel potpuno je nova avantura sačinjena od prethodno neviđenog dijela prošlosti Marvelovog filmskog svijeta.</description>
+            <director>
+                <firstName>Anna</firstName>
+                <lastName>Boden, Ryan Fleck</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Brie</firstName>
+                    <lastName>Larson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jude</firstName>
+                    <lastName>Law</lastName>
+                </actor>
+                <actor>
+                    <firstName>Samuel</firstName>
+                    <lastName>Jackson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ben</firstName>
+                    <lastName>Mendelsohn</lastName>
+                </actor>
+                <actor>
+                    <firstName>Annette</firstName>
+                    <lastName>Bening</lastName>
+                </actor>
+            </actors>
+            <duration>124</duration>
+            <genre>akcijski, avanturistički</genre>
+            <picturepath>assets\2096233563.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/kapetanica-marvel-di/7255//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2322">
+            <title>Anna DI</title>
+            <originaltitle>Anna</originaltitle>
+            <publisheddate/>
+            <description>Ispod zapanjujuće ljepote top modela, Anne Poliatove, skriva se njezina nevjerojatna snaga i vještine koje je čine jednom od najstrašnijih ubojica vlade. Uzbudljiva, energična vožnja s neočekivanim preokretima i akcijom koja oduzima dah, uvodi nas u radnju ove priče. U glavnim ulogama su Sasha Luss dobitnica nagrade Oscar® Helen Mirren, Cillian Murphy i Luke Evans.</description>
+            <director>
+                <firstName>Luc</firstName>
+                <lastName>Besson</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Sasha</firstName>
+                    <lastName>Luss</lastName>
+                </actor>
+                <actor>
+                    <firstName>Helen</firstName>
+                    <lastName>Mirren</lastName>
+                </actor>
+                <actor>
+                    <firstName>Luke</firstName>
+                    <lastName>Evans</lastName>
+                </actor>
+            </actors>
+            <duration>119</duration>
+            <genre>Akcija, triler</genre>
+            <picturepath>assets\647939437.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/anna-di/7257//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2323">
+            <title>Prevarantice s Wall Streeta DI</title>
+            <originaltitle>Hustlers</originaltitle>
+            <publisheddate/>
+            <description>Priča prati plan za osvetu dviju zaposlenica striptiz kluba koje udružuju snage protiv muškaraca s Wall Streeta koji su njihovi klijenti. Uz Lopez i Cardi, u filmu gledamo i Constance Wu, Lili Reinhart (iz Riverdalea), Keke Palmer (iz Scream Queens), Juliju Stiles (Silver Linings Playbook) i dobitnicu Oscara Mercedes Ruehl. Radnja filma je inspirirana člankom iz New York Magazina koji je izašao 2016. godine.</description>
+            <director>
+                <firstName>Lorene</firstName>
+                <lastName>Scafaria</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Constance</firstName>
+                    <lastName>Wu</lastName>
+                </actor>
+                <actor>
+                    <firstName>Cardi</firstName>
+                    <lastName>B</lastName>
+                </actor>
+                <actor>
+                    <firstName>Julia</firstName>
+                    <lastName>Stiles</lastName>
+                </actor>
+            </actors>
+            <duration>110</duration>
+            <genre>komedija, drama, kriminalistički</genre>
+            <picturepath>assets\438744592.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/prevarantice-s-wall-streeta-di/7256//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2324">
+            <title>Zavedi me ako možeš DI</title>
+            <originaltitle>Long shot</originaltitle>
+            <publisheddate/>
+            <description>Iskre krenu frcati kada se Fred Flarsky sretne s djevojkom iz snova koja je ujedno njegova bivša dadilja - Charlotte Field  - a sada popularna američka političarka. Charlotte ima ambiciju kandidirati se za predsjednicu SAD-a te zamoli Freda da joj pomogne pri pisanju govora. Izraz međunarodni odnosi poprimi potpuno novo značenje kada se smotani novinar spetlja s uglednom državnom tajnicom i preokrene cijeli njezin svijet naopako. Nakon lude zajedničke noći u Parizu, Charlotte shvati da se zaljubljuje u svog puno opuštenijeg suradnika i da bi njihova vruća avantura mogla naškoditi cijeloj njezinoj političkoj karijeri.</description>
+            <director>
+                <firstName>Jonathan</firstName>
+                <lastName>Levine</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Charlize</firstName>
+                    <lastName>Theron</lastName>
+                </actor>
+                <actor>
+                    <firstName>Seth</firstName>
+                    <lastName>Rogen</lastName>
+                </actor>
+                <actor>
+                    <firstName>Alexander</firstName>
+                    <lastName>Skarsgard</lastName>
+                </actor>
+            </actors>
+            <duration>126</duration>
+            <genre>komedija</genre>
+            <picturepath>assets\93113287.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/zavedi-me-ako-mozes-di/7258//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2325">
+            <title>Birds of Prey i emancipacija famozne Harley Quinn </title>
+            <originaltitle>Birds of Prey: And the Fantabulous Emancipation of</originaltitle>
+            <publisheddate/>
+            <description>Radnja se odvija oko grupe heroina i negativki DC-jevog univerzuma, a glavna zvijezda je Margot Robbie kao famozna Harley Quinn koju smo već imali prilike gledati u filmu Suicide Squad. Harley Quinn predvodi svoju jaku žensku ekipu koju čine: Jurnee Smollett-Bell kao Black Canary, Mary Elizabeth Winstead kao Huntress, Rosie Pere kao Renee Montoya i mlada debitantica Ella Jay Basco kao Cassandra Cain.</description>
+            <director>
+                <firstName>Cathy</firstName>
+                <lastName>Yan</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Margot</firstName>
+                    <lastName>Robbie</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ewan</firstName>
+                    <lastName>McGregor</lastName>
+                </actor>
+                <actor>
+                    <firstName>Mary</firstName>
+                    <lastName>Winstead</lastName>
+                </actor>
+            </actors>
+            <duration>109</duration>
+            <genre>akcija</genre>
+            <picturepath>assets\1354845353.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/birds-of-prey-i-emancipacija-famozne-harley-quinn-di/7249//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2326">
+            <title>Blizanac DI</title>
+            <originaltitle>Gemini Man</originaltitle>
+            <publisheddate/>
+            <description>Will Smith glumi Henryja Brogana, elitnog ubojicu, koji iznenada postaje meta tajanstvenog mladog operativca koji naizgled može predvidjeti svaki njegov potez. Producenti su Jerry Bruckheimer, David Ellison, Dana Goldberg i Don Granger. U filmu glume još i Mary Elizabeth Winstead, Clive Owen i Benedict Wong.</description>
+            <director>
+                <firstName>Ang</firstName>
+                <lastName>Lee</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Will</firstName>
+                    <lastName>Smith</lastName>
+                </actor>
+                <actor>
+                    <firstName>Mary</firstName>
+                    <lastName>Winstead</lastName>
+                </actor>
+                <actor>
+                    <firstName>Clive</firstName>
+                    <lastName>Owen</lastName>
+                </actor>
+            </actors>
+            <duration>117</duration>
+            <genre>akcija, SF</genre>
+            <picturepath>assets\1934105005.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/blizanac-di/7251//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2327">
+            <title>21 most DI</title>
+            <originaltitle>21 Bridges</originaltitle>
+            <publisheddate/>
+            <description>Radnja je smještena na Manhattan, nakon pljačke koja je krenula u krivom smjeru i iza sebe ostavila osam mrtvih policajaca NYPD-a. 
+Kada se potraga pojača, poduzimaju se ekstremne mjere kako bi se ubojicama spriječilo da pobjegnu s Manhattana, budući da vlasti zatvaraju svih 21 mostova kako bi spriječile bilo kakav ulazak ili izlazak s otoka. 
+Kako se noć razvija, linije postaju nejasne o tome koga zapravo slijede a neočekivana zavjera se polako otkriva. </description>
+            <director>
+                <firstName>Brian</firstName>
+                <lastName>Kirk</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Chadwick</firstName>
+                    <lastName>Boseman</lastName>
+                </actor>
+                <actor>
+                    <firstName>J.K.</firstName>
+                    <lastName>Simmons</lastName>
+                </actor>
+                <actor>
+                    <firstName>Sienna</firstName>
+                    <lastName>Miller</lastName>
+                </actor>
+            </actors>
+            <duration>99</duration>
+            <genre>kriminalistički, triler</genre>
+            <picturepath>assets\1356962804.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/21-most-di/7245//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2328">
+            <title>Zov divljine DI</title>
+            <originaltitle>The Call of the Wild</originaltitle>
+            <publisheddate/>
+            <description>ZOV DIVLJINE na velika platna živopisno donosi priču o Bucku, psu velikog srca čiji je život okrenut naopačke kada je iznenada izgnan iz svog doma u Kaliforniji i preseljen duboko u srce Aljaske tijekom zlatne groznice 1890-ih. Kao novajlija u ekipi pasa za dostavu - a kasnije i njihov vođa - Buck prolazi svoju životnu avanturu, konačno pronalazeći svoje pravo mjesto u svijetu i postajući gospodar vlastite sudbine. Zvijezde filma su legendarni Harrison Ford, Dan Stevens, Omar Sy, Karen Gillan, Bradley Whitford i Colin Woodell. Redatelj filma je Chris Sanders (Kako izdresirati zmaja), a scenarist Michael Green (Ubojstvo na Orient Expressu). </description>
+            <director>
+                <firstName>Chris</firstName>
+                <lastName>Sanders</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Harrison</firstName>
+                    <lastName>Ford</lastName>
+                </actor>
+                <actor>
+                    <firstName>Dan</firstName>
+                    <lastName>Stevens</lastName>
+                </actor>
+                <actor>
+                    <firstName>Karen</firstName>
+                    <lastName>Gillan</lastName>
+                </actor>
+            </actors>
+            <duration>100</duration>
+            <genre>avantura</genre>
+            <picturepath>assets\523916316.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/zov-divljine-di/7259//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2329">
+            <title>Jojo Rabbit DI</title>
+            <originaltitle>Jojo Rabbit</originaltitle>
+            <publisheddate/>
+            <description>Radnja filma se zasniva na romanu Nebo u kavezu autorice Christine Launens, a započinje kada usamljeni njemački dječak imena Jojo otkrije da njegova majka skriva mladu židovsku djevojku na svom tavanu. Jojo se, uz pomoć svog idiotskog imaginarnog prijatelja, Adolfa Hitlera, u ovoj satiri protiv mržnje, mora suočiti sa svojim slijepim nacionalizmom. Njegov svijet se tada okreće naopačke.
+Film je osvojio prestižnu nagradu publike na ovogodišnjem filmskom festivalu u Torontu.</description>
+            <director>
+                <firstName>Taika</firstName>
+                <lastName>Waititi</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Roman</firstName>
+                    <lastName>Davis</lastName>
+                </actor>
+                <actor>
+                    <firstName>Thomasin</firstName>
+                    <lastName>McKenzie</lastName>
+                </actor>
+                <actor>
+                    <firstName>Scarlett</firstName>
+                    <lastName>Johansson</lastName>
+                </actor>
+            </actors>
+            <duration>108</duration>
+            <genre>Ratna komedija</genre>
+            <picturepath>assets\1903287939.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/jojo-rabbit-di/7260//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2330">
+            <title>#ZaNju</title>
+            <originaltitle>#Iamhere</originaltitle>
+            <publisheddate/>
+            <description>Stefan  je eminentni kuvar  u Francuskoj koji živi mirnim životom bez značajnih problema. Preuzeo je restoran svog oca, ima dva odrasla sina, bivšu suprugu. 
+Život mu se okrene naopako kad se zaljubljuje u So, tajanstvenu korejsku damu koju upoznaje preko Instagrama.
+Impulsivno, Stefan  je odluči da je poseti Seulu…a tamo će otkriti novi sviet i možda ponovno otkriti samog sebe.</description>
+            <director>
+                <firstName>Eric</firstName>
+                <lastName>Lartigau</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Doona</firstName>
+                    <lastName>Bae</lastName>
+                </actor>
+                <actor>
+                    <firstName>Alain</firstName>
+                    <lastName>Chabat</lastName>
+                </actor>
+                <actor>
+                    <firstName>Vincent</firstName>
+                    <lastName>Nemeth</lastName>
+                </actor>
+            </actors>
+            <duration>97</duration>
+            <genre>komedija</genre>
+            <picturepath>assets\821460974.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/zanju/6930//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2331">
+            <title>Antebellum</title>
+            <originaltitle>Antebellum</originaltitle>
+            <publisheddate/>
+            <description>Radnja ovog misterioznog horor trilera koji zaokuplja pažnju prati uspješnu autoricu Veronicu Henley (Janelle Monáe iz filmova Moonlight i Hidden Figures) zarobljenu u zastrašujućoj poremećenoj stvarnosti.
+Veronica mora razotkriti jezivu misteriju prije nego što bude prekasno…</description>
+            <director>
+                <firstName>Gerard</firstName>
+                <lastName>Bush, Christopher Renz</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Janelle</firstName>
+                    <lastName>Monáe</lastName>
+                </actor>
+                <actor>
+                    <firstName>Eric</firstName>
+                    <lastName>Lange</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jena</firstName>
+                    <lastName>Malone</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>Horor, triler</genre>
+            <picturepath>assets\258476390.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/antebellum/7186//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2332">
+            <title>Avanture porodice Bigfoot - sinh</title>
+            <originaltitle>Bigfoot Family</originaltitle>
+            <publisheddate/>
+            <description>Nastavak velikog animiranog hita Mali Bigfoot iz 2017. godine.</description>
+            <director>
+                <firstName>Jeremy</firstName>
+                <lastName>Degruson, Ben Stassen</lastName>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>animirani</genre>
+            <picturepath>assets\273159330.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/avanture-porodice-bigfoot-sinh/7274//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2333">
+            <title>Bez grižnje savjesti</title>
+            <originaltitle>Tom Clancy’s Without Remorse</originaltitle>
+            <publisheddate/>
+            <description>Odlikovani vojni heroj i stručnjak za specijalne snage postaje nepromišljen i nepredvidljiv kad nepoznati neprijatelj ubije njegovu trudnu suprugu i cijeli njegov Seal tim. Poslan je u zatvor s optužbom za ubojstvo jednog od odgovornih ljudi, ali mu se pruža prilika za iskupljenje kada vlada odluči iskoristiti njegovu želju za osvetom i pošalje ga na tajnu misiju kako bi  pronašao ljude koji stvarno stoje iza tog zločina. Naoružan najnovijom tehnologijom i u pratnji visoko obučenog tima, suočit će se s najtežom, i najosobnijom misijom života, u kojoj će pokušati otkriti kome može vjerovati i tko je uistinu odgovoran.</description>
+            <director>
+                <firstName>Stefano</firstName>
+                <lastName>Sollima</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Michael</firstName>
+                    <lastName>Jordan</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jodie</firstName>
+                    <lastName>Turner-Smith</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jamie</firstName>
+                    <lastName>Bell</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>Akcija, triler</genre>
+            <picturepath>assets\899155316.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/bez-griznje-savjesti/7289//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2334">
+            <title>Bios</title>
+            <originaltitle>Bios</originaltitle>
+            <publisheddate/>
+            <description>Bios je priča o životu na Zemlji nakon apokalipse. Tom Hanks je u ulozi izumitelja i zadnjeg čovjeka na svijetu koji bi uskoro trebao umrijeti pa izrađuje robota, koji bi se trebao brinuti o njegovom psu kad ga više ne bude bilo. Kroz odnos sa psom i vlastitim tvorcem robot počinje shvaćati koncepte ljubavi, prijateljstva i značaja ljudskog života.</description>
+            <director>
+                <firstName>Miguel</firstName>
+                <lastName>Sapochnik</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Tom</firstName>
+                    <lastName>Hanks</lastName>
+                </actor>
+                <actor>
+                    <firstName>Skeet</firstName>
+                    <lastName>Ulrich</lastName>
+                </actor>
+                <actor>
+                    <firstName>Caleb</firstName>
+                    <lastName>Jones</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>SF</genre>
+            <picturepath>assets\419251351.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/bios/7293//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2335">
+            <title>Come Play</title>
+            <originaltitle>Come Play</originaltitle>
+            <publisheddate/>
+            <description>Come Play je nova vizija horora.
+
+Mladi Azi Robertson je u ulozi Olivera, usamljenog mladića koji se  oseća drugačije od svih ostalih. Na svoem tabletu očajnički traži prijatelja u kom bi našao utehu i utočište. Upravo tamo tajanstveno  stvorenje pokušava ući u njegov svet, a Oliverovi roditelji moraju da se bore kako bi spasili sina od tog jezivog stvorenja.</description>
+            <director>
+                <firstName>Jacob</firstName>
+                <lastName>Chase</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Azhy</firstName>
+                    <lastName>Robertson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Gillian</firstName>
+                    <lastName>Jacobs</lastName>
+                </actor>
+                <actor>
+                    <firstName>John</firstName>
+                    <lastName>Jr.</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>horor</genre>
+            <picturepath>assets\180704855.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/come-play/7264//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2336">
+            <title>Crna udovica</title>
+            <originaltitle>Black Widow</originaltitle>
+            <publisheddate/>
+            <description>Skarlet Džohanson reprizira ulogu Nataše / Crne udovice u Marvelovom akcionom spektaklu, špijunskom trileru “CRNA UDOVICA” - prvom flmu četvrte etape Marvelovog flmskog univerzuma. Florens Pju u flmu glumi Jelenu, Dejvid Harbor je Aleksej, poznatji kao Crveni Čuvar, a Rejčel Vajs je Melina. Reditelj flma je Kejt Šortland a producent je Kevin Fajgi</description>
+            <director>
+                <firstName>Cate</firstName>
+                <lastName>Shortland</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Scarlett</firstName>
+                    <lastName>Johansson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Florence</firstName>
+                    <lastName>Pugh</lastName>
+                </actor>
+                <actor>
+                    <firstName>Rachel</firstName>
+                    <lastName>Weisz</lastName>
+                </actor>
+                <actor>
+                    <firstName>David</firstName>
+                    <lastName>Harbour</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>akcija, avantura</genre>
+            <picturepath>assets\605279905.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/crna-udovica/7201//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2337">
+            <title>Časnik i špijun</title>
+            <originaltitle>An Officer and a Spy</originaltitle>
+            <publisheddate/>
+            <description> 
+	Srebrni lav – velika nagrada žirija (filmski festival u Veneciji)
+	Nagrada FIPRESCI – filmski festival u Veneciji
+	4 nominacije za nagradu Europske filmske akademije (film, režija, glumac, scenarij)
+	12 nominacija za nagradu Cesar, uključujući one za najbolji film i režiju
+Dana 5. siječnja 1895. godine mladi kapetan u usponu, Alfred Dreyfus, optužen je za špijuniranje za Njemačku te osuđen na doživotnu robiju koju će provesti u kuli na Vražjem otoku. Među svjedocima Dreyfusovog poniženja nalazi se i Georges Picquart koji je promoviran kako bi vodio vojnu protuobavještajnu jedinicu koja je Dreyfusa i optužila. Ali nakon što Picquart otkrije da nakon Dreyfusovog zatvaranja Nijemci i dalje dobivaju tajne podatke, on ulazi u opasni labirint obmana i korupcije koji ne prijeti ugroziti samo njegovu čast, već i vlastiti život…</description>
+            <director>
+                <firstName>Roman</firstName>
+                <lastName>Polanski</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Jean</firstName>
+                    <lastName>Dujardin</lastName>
+                </actor>
+                <actor>
+                    <firstName>Louis</firstName>
+                    <lastName>Garrel</lastName>
+                </actor>
+                <actor>
+                    <firstName>Emmanuelle</firstName>
+                    <lastName>Seigner</lastName>
+                </actor>
+                <actor>
+                    <firstName>Gregory</firstName>
+                    <lastName>Gadebois</lastName>
+                </actor>
+            </actors>
+            <duration>132</duration>
+            <genre>drama</genre>
+            <picturepath>assets\209988308.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/casnik-i-spijun/7020//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2338">
+            <title>Čudovišta iz moje porodice 2 - sinh</title>
+            <originaltitle>Happy family 2</originaltitle>
+            <publisheddate/>
+            <description>Nastavak velikog animiranog hita iz 2017.godine. ČUDOVIŠTA IZ MOJE PORODICE  je adaptacija istoimenog bestselera Emmy-em ovekovečenog autora Davida Saflera (Berlin, Berlin), koji je preveden na 18 jezika i objavljen u preko 40  zemalja.
+
+Kako bi oslobodili Babu Jagu i Renfilda iz kandži lovca na čudovišta, porodica  Višbon se još jednom pretvara u neodoljivog vampira, Frankenštajnovo  čudovište, mumiju i vukodlaka. Naša porodica uz pomoć svoja tri kućna ljubimaca ponovno obilazi svet kako bi spasili prijatelje, stekli nova  monstruozna poznanstva i konačno shvatili da niko nije savršen – i da čak i oni sa manama mogu pronaći sreću.</description>
+            <director>
+                <firstName>Holger</firstName>
+                <lastName>Tappe</lastName>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>animirani</genre>
+            <picturepath>assets\1926303991.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/cudovista-iz-moje-porodice-2-sinh/7276//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2339">
+            <title>Deep Water</title>
+            <originaltitle>Deep Water</originaltitle>
+            <publisheddate/>
+            <description>Bračni par, koji samo prividno odaje dojam savršenog para, prepun je tajni. U braku u kojem je nestalo ljubavi, počele su otvorene prevare, zavade i podmetanja. Psihološka igra prevara se u rat koji kulminira optužbama za ubojstvo.</description>
+            <director>
+                <firstName>Adrian</firstName>
+                <lastName>Lyne</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Ben</firstName>
+                    <lastName>Affleck</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ana</firstName>
+                    <lastName>Armas</lastName>
+                </actor>
+                <actor>
+                    <firstName>Kristen</firstName>
+                    <lastName>Connolly</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>triler</genre>
+            <picturepath>assets\715755578.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/deep-water/7296//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2340">
+            <title>Dina</title>
+            <originaltitle>Dune</originaltitle>
+            <publisheddate/>
+            <description>Adaptacija naučno-fantastičnog klasika Franka Herberta.
+
+Priča prati Pola Atreidesa iz kuće Atreides, sjajnog i nadarenog mladića  rođenog za velike stvari, koji mora da otputuje na najopasniju planetu u  svemiru kako bi osigurao budućnost svoje porodice i svog naroda. Kada se nađe usred sukoba oko ekskluzivne distribucije najcenjenijim resursom koji postoji, najvrednijem elementu galaksije koji se nalazi samo na Arakisu i  koji može otključati najveći potencijal čovečanstva, u kom će preživeti samo oni koji mogu da pobede svoj strah.</description>
+            <director>
+                <firstName>Denis</firstName>
+                <lastName>Villeneuve</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Rebecca</firstName>
+                    <lastName>Ferguson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Timothée</firstName>
+                    <lastName>Chalamet</lastName>
+                </actor>
+                <actor>
+                    <firstName>Zendaya</firstName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>SF, avantura</genre>
+            <picturepath>assets\1499352626.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/dina/7279//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2341">
+            <title>Divljaci</title>
+            <originaltitle>Divljaci</originaltitle>
+            <publisheddate/>
+            <description>Ljeto 2018. godine, Svjetsko nogometno prvenstvo. Ususret finalu u Moskvi, u hrvatskim gradovima vlada opće “ludilo”, a to je ludilo ponijelo i naše glavne junake - hrvatskog ratnog veterana Zolju, bosanskog švercera Jasmina i romskog vozača Malog, koji odluče pljačkom nabaviti novac za put u Rusiju. Zolja, Jasmin i Mali, bježeći od policije prelaze granicu s Bosnom i Hercegovinom. Nađu se u šumi, gdje zalutaju u teroristički kamp radikalnih islamista. Slijedi borba za preživljavanje ispunjena akcijom, humorom i galerijom živopisnih likova; otkrivamo prošlost glavnih anti-junaka i negativaca, njihova prava lica i namjere, kroz putovanje od ratnih balkanskih devedesetih do strahova Europe 21. stoljeća.</description>
+            <director>
+                <firstName>Dario</firstName>
+                <lastName>Lonjak</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Alen</firstName>
+                    <lastName>Liverić</lastName>
+                </actor>
+                <actor>
+                    <firstName>Branko</firstName>
+                    <lastName>Janković</lastName>
+                </actor>
+                <actor>
+                    <firstName>Borko</firstName>
+                    <lastName>Perić</lastName>
+                </actor>
+                <actor>
+                    <firstName>Dejan</firstName>
+                    <lastName>Aćimović</lastName>
+                </actor>
+                <actor>
+                    <firstName>Slavko</firstName>
+                    <lastName>Sobin</lastName>
+                </actor>
+                <actor>
+                    <firstName>Maja</firstName>
+                    <lastName>Jurić</lastName>
+                </actor>
+                <actor>
+                    <firstName>Mijo</firstName>
+                    <lastName>Jurišić</lastName>
+                </actor>
+                <actor>
+                    <firstName>Nerman</firstName>
+                    <lastName>Mahmutović</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>krimi, drama</genre>
+            <picturepath>assets\2135187165.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/divljaci/7206//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2342">
+            <title>Doušnik</title>
+            <originaltitle>The Informer</originaltitle>
+            <publisheddate/>
+            <description>Piet Koslow, reformirani kriminalac i bivši specijalac radi za FBI kako bi se infiltrirao u krugove trgovaca drogom u New Yorku. Nakon što isporuka droge u kojoj sudjeluje krene po zlu, suočava se s najtežim zadatkom u svom životu - mora se infiltrirati u najozloglašeniji zatvor... Jedna prilika i tri sekunde da izvuče živu glavu... Hoće li biti dovoljne?</description>
+            <director>
+                <firstName>Andrea</firstName>
+                <lastName>Di Stefano</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Ana</firstName>
+                    <lastName>Armas</lastName>
+                </actor>
+                <actor>
+                    <firstName>Joel</firstName>
+                    <lastName>Kinnaman</lastName>
+                </actor>
+                <actor>
+                    <firstName>Rosamund</firstName>
+                    <lastName>Pike</lastName>
+                </actor>
+            </actors>
+            <duration>113</duration>
+            <genre>kriminalistički, drama</genre>
+            <picturepath>assets\759439391.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/dousnik/5579//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2343">
+            <title>Duša</title>
+            <originaltitle>Soul</originaltitle>
+            <publisheddate/>
+            <description>U središtu priče je Joe, učitelj glazbenog u osnovnoj školi, koji sanja postati jazz glazbenik. Uoči velikog nastupa koji bi mu mogao donijeti željenu karijeru Joe doživi nesreću zbog koje mu se duša odvoji od dijela. Joeova se duša želi i treba vratiti u svoj život, a na tom putu će mu pomoći tajanstveni lik „22”.</description>
+            <director>
+                <firstName>Pete</firstName>
+                <lastName>Docter, Kemp Powers</lastName>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>animirani</genre>
+            <picturepath>assets\1790243836.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/dusa/7218//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2344">
+            <title>Everybody’s Talking About Jamie</title>
+            <originaltitle>Everybody’s Talking About Jamie</originaltitle>
+            <publisheddate/>
+            <description>Inspiriran istinitom pričom o Jamieju Campbellu, radnja filma slijedi 16-godišnjeg mladića koji živi u Sheffieldu u Engleskoj. Jamie se ne uklapa baš dobro. Jamie je prestravljen zbog budućnosti. Jamie će biti senzacija. Uz potporu svoje sjajne majke i prijatelja, Jamie je nadvladao nasilnike i pronašao je izlaz iz mraka, pod svjetla reflektora, ravno na središte pozornice.</description>
+            <director>
+                <firstName>Jonathan</firstName>
+                <lastName>Butterell</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Max</firstName>
+                    <lastName>Harwood</lastName>
+                </actor>
+                <actor>
+                    <firstName>Lauren</firstName>
+                    <lastName>Patel</lastName>
+                </actor>
+                <actor>
+                    <firstName>Richard</firstName>
+                    <lastName>Grant</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>drama, mjuzikl</genre>
+            <picturepath>assets\1210155495.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/everybody-s-talking-about-jamie/7294//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2345">
+            <title>Fatale</title>
+            <originaltitle>Fatale</originaltitle>
+            <publisheddate/>
+            <description>Napet i provokativan psihološki triler opisuje urušavanje savršenog života sportskog agenta Darrena, nakon što mu zgodna policajka s kojom je proveo burnu noć namjesti ubojstvo.</description>
+            <director>
+                <firstName>Deon</firstName>
+                <lastName>Taylor</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Hilary</firstName>
+                    <lastName>Swank</lastName>
+                </actor>
+                <actor>
+                    <firstName>Michael</firstName>
+                    <lastName>Ealy</lastName>
+                </actor>
+                <actor>
+                    <firstName>Mike</firstName>
+                    <lastName>Colter</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>triler</genre>
+            <picturepath>assets\1929542772.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/fatale/7281//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2346">
+            <title>Fatima</title>
+            <originaltitle>Fatima</originaltitle>
+            <publisheddate/>
+            <description>Fatima je priča o desetogodišnjoj pastirici i njezina dva mlađa rođaka iz Fátime u Portugalu, koji izvještavaju o viđenjima Djevice Marije. Njihova proročanstva nadahnjuju vjernike, ali ljute vladu i Crkvu, koji ih pokušavaju prisiliti da povuku svoju priču. Kako se vijest o njihovom proročanstvu širila, deseci tisuća religioznih hodočasnika došli su na to mjesto u nadi da će svjedočiti čudu. Ono što tamo dožive, zauvijek će im promijeniti živote.</description>
+            <director>
+                <firstName>Marco</firstName>
+                <lastName>Pontecorvo</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Harvey</firstName>
+                    <lastName>Keitel</lastName>
+                </actor>
+                <actor>
+                    <firstName>Goran</firstName>
+                    <lastName>Višnjić</lastName>
+                </actor>
+                <actor>
+                    <firstName>Sônia</firstName>
+                    <lastName>Braga</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>drama</genre>
+            <picturepath>assets\670081661.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/fatima/7185//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2347">
+            <title>Free Guy</title>
+            <originaltitle>Free Guy</originaltitle>
+            <publisheddate/>
+            <description>Guy je usamljeni bankar koji otkrije da je zapravo pozadinski lik (NPC – non playable character) u svjetskoj video igri Free City. Taoci, pljačke, eksplozije, otmice i ubojstva dio su njegovog svakodnevnog života. Ipak jednog dana mu “pukne film” te uzima sudbinu u svoje ruke.</description>
+            <director>
+                <firstName>Shawn</firstName>
+                <lastName>Levy</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Jodie</firstName>
+                    <lastName>Comer</lastName>
+                </actor>
+                <actor>
+                    <firstName>Joe</firstName>
+                    <lastName>Keery</lastName>
+                </actor>
+                <actor>
+                    <firstName>Lil</firstName>
+                    <lastName>Howery</lastName>
+                </actor>
+                <actor>
+                    <firstName>Utkarsh</firstName>
+                    <lastName>Ambudkar</lastName>
+                </actor>
+                <actor>
+                    <firstName>Taika</firstName>
+                    <lastName>Waititi</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ryan</firstName>
+                    <lastName>Reynolds</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>akcija, komedija</genre>
+            <picturepath>assets\1345895367.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/free-guy/7234//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2348">
+            <title>Godzilla vs. Kong</title>
+            <originaltitle>Godzilla vs. Kong</originaltitle>
+            <publisheddate/>
+            <description>Svijet je spreman za još jednu borbu giganta. Kralj čudovišta i kralj Otoka lubanje idu jedan na drugog u borbi za nadmoćnu monstruoznu superiornost. Dvije se najmoćnije sile prirode na planeti sukobljavaju u najspektakularnijoj bitci svih vremena.</description>
+            <director>
+                <firstName>Adam</firstName>
+                <lastName>Wingard</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Alexander</firstName>
+                    <lastName>Skarsgard</lastName>
+                </actor>
+                <actor>
+                    <firstName>Eiza</firstName>
+                    <lastName>González</lastName>
+                </actor>
+                <actor>
+                    <firstName>Millie</firstName>
+                    <lastName>Brown</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>avantura, akcija</genre>
+            <picturepath>assets\1284608142.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/godzilla-vs-kong/7297//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2349">
+            <title>Guns Akimbo</title>
+            <originaltitle>Guns Akimbo</originaltitle>
+            <publisheddate/>
+            <description>Miles je zaglavio na poslu kojeg ne voli, još uvijek zaljubljen u svoju bivšu djevojku Novu. Ono što Miles ne zna jest da banda imena Skizm organizira smrtonosno natjecanje u njegovom gradu u kojem se potpuni stranci bore do smrti, a sve s ciljem zabavljanja milijunske publike koja natjecanje prati putem Interneta. Miles se ubrzo nađe u igri, prisiljen boriti se kako bi preživio. U početku se Milesovo dugogodišnje iskustvo bježanja od vlastitih problema isplaćuje pa tako uspijeva nadmudriti svog prvog neprijatelja… Ali kada Nova biva oteta, Miles mora konačno prestati s bježanjem, pobijediti vlastite strahove i boriti se za djevojku koju voli.</description>
+            <director>
+                <firstName>Jason</firstName>
+                <lastName>Lei Howden</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Daniel</firstName>
+                    <lastName>Radcliffe</lastName>
+                </actor>
+                <actor>
+                    <firstName>Samara</firstName>
+                    <lastName>Weaving</lastName>
+                </actor>
+                <actor>
+                    <firstName>Natasha</firstName>
+                    <lastName>Bordizzo</lastName>
+                </actor>
+            </actors>
+            <duration>95</duration>
+            <genre>akcijska komedija</genre>
+            <picturepath>assets\1645705965.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/guns-akimbo/7179//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2350">
+            <title>Ivan, jedan jedini</title>
+            <originaltitle>The One and Only Ivan</originaltitle>
+            <publisheddate/>
+            <description>Ivan je gorila srebrnih leđa. Živi u kavezu trgovačkog centra i navikao je da ga ljudi promatraju kroz staklene zidove. Na svoj život u džungli pomišlja rijetko. Gotovo nikad. Tokom godina, naučio je neke ljudske riječi, ali razumjeti ljudski govor nije isto što i razumjeti ljude. Mislio je da je posljednji gorila na svijetu i da su mudra slonica Stella i prgavi mješanac Bob jedini koje će ikada voljeti. A onda se u njegovom životu pojavi Ruby, beba slona odvojena od obitelji. Ivan dobiva novu ulogu, onu koja mu je rođenjem i bila namijenjena, ulogu staratelja. Odjednom, Ivan počinje promatrati svoj život njezinim očima. Rubi postavlja pitanja, ali Ivan nema odgovore. Mora ih tek pronaći.</description>
+            <director>
+                <firstName>Thea</firstName>
+                <lastName>Sharrock</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Angelina</firstName>
+                    <lastName>Jolie</lastName>
+                </actor>
+                <actor>
+                    <firstName>Sam</firstName>
+                    <lastName>Rockwell</lastName>
+                </actor>
+                <actor>
+                    <firstName>Bryan</firstName>
+                    <lastName>Cranston</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>animirani, avantura</genre>
+            <picturepath>assets\1828810467.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/ivan-jedan-jedini/7283//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2351">
+            <title>Još uvijek vjerujem</title>
+            <originaltitle>I Still Believe</originaltitle>
+            <publisheddate/>
+            <description>Jeremy Camp iza sebe ima dvanaestogodišnje glazbeno iskustvo i brojna priznanja i ostvarenja, preko četiri milijuna prodanih albuma, tri nominacije za American Music Awards i nominaciju za Grammy, a nastupao je u više od trideset zemalja svijeta. Ovo je priča nastala na temelju njegove intimne ispovijesti u knjizi „I Still Believe” u kojoj je s čitateljima podijelio neka od životnih iskustava. Njegova supruga umrla je od raka kad je imao dvadeset i jednu godinu. Teški životni trenuci i patnja dio su njegovog života koji ga je na neki način oblikovao. O patnjama ne šuti, nego pokušava i drugima koji prolaze kroz slične situacije pomoći, ohrabriti ih i poručiti im da je Krist čovjekov supatnik te da razumije svaku bol koju čovjek može doživjeti.</description>
+            <director>
+                <firstName>Andrew</firstName>
+                <lastName>Erwin, Jon Erwin</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Britt</firstName>
+                    <lastName>Robertson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Melissa</firstName>
+                    <lastName>Roxburgh</lastName>
+                </actor>
+                <actor>
+                    <firstName>K.J.</firstName>
+                    <lastName>Apa</lastName>
+                </actor>
+            </actors>
+            <duration>115</duration>
+            <genre>Romantični, glazbeni</genre>
+            <picturepath>assets\1052424871.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/jos-uvijek-vjerujem/7004//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2352">
+            <title>King’s Man: Početak</title>
+            <originaltitle>The King’s Man</originaltitle>
+            <publisheddate/>
+            <description>Temeljen na stripu „The Secret Service” Marka Millara i Davea Gibbonsa, novi nastavak u franšizi KINGSMAN vodi nas na početak priče, prije radnji koje su se dogodile u nastavcima Kingsman: Tajna služba i Kingsman: Zlatni krug. Glumačka postava ni ovaj put nije razočarala: Ralph Fiennes, Gemma Arterton, Rhys Ifans, Matthew Goode, Tom Hollander, Harris Dickinson, Daniel Brühl, Djimon Hounsou, i Charles Dance, a redateljsku palicu ponovno je preuzeo Matthew Vaughn.</description>
+            <director>
+                <firstName>Matthew</firstName>
+                <lastName>Vaughn</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Gemma</firstName>
+                    <lastName>Arterton</lastName>
+                </actor>
+                <actor>
+                    <firstName>Matthew</firstName>
+                    <lastName>Goode</lastName>
+                </actor>
+                <actor>
+                    <firstName>Aaron</firstName>
+                    <lastName>Taylor-Johnson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ralph</firstName>
+                    <lastName>Fiennes</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>akcija, avantura</genre>
+            <picturepath>assets\1807955604.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/king-s-man-pocetak/7235//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2353">
+            <title>Klub srećno razvedenih</title>
+            <originaltitle>Divorce Club</originaltitle>
+            <publisheddate/>
+            <description>Zabavna komedija o dvojici cimera koji se pokušavaju zabavit nakon razvoda. 
+Ben je devastiran kada njegova supruga zatraži razvod. Dok su svi njihovi prijatelji na strani njegove žene, Ben naiđe na starog prijatelja sa fakulteta koji se isto nedavno razveo. Patrick ga poziva da dođe da živi kod njega. Dvojici cimera se ubrzo pridružuju i drugi razvedeni, razdvojeni i samci koji traže utočište. Zabava za zabavom, njihova vila postaje VIP klub u koji su pozvani svi željni zabave i slobode. Klub ima jedan moto: nemaš pratnju, nemaš problema. Međutim, kada Ben naiđe na Marion, stvari se zakomplikuju…</description>
+            <director>
+                <firstName>Michaël</firstName>
+                <lastName>Youn</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Arnaud</firstName>
+                    <lastName>Ducret</lastName>
+                </actor>
+                <actor>
+                    <firstName>François-Xavier</firstName>
+                    <lastName>Demaison</lastName>
+                </actor>
+                <actor>
+                    <firstName>Caroline</firstName>
+                    <lastName>Anglade</lastName>
+                </actor>
+            </actors>
+            <duration>108</duration>
+            <genre>komedija</genre>
+            <picturepath>assets\209607492.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/klub-srecno-razvedenih/7266//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2354">
+            <title>Mjesto za nas</title>
+            <originaltitle>Come as you are</originaltitle>
+            <publisheddate/>
+            <description>Tri muškaraca s invaliditetom bježe od svojim brižnih roditelja u bordel u Montrealu kako bi izgubili nevinost i dokazali da mogu biti samostalni.  U ulozi njegovateljice, koja im je ujedno i vozačica do lokacije je Gabourey Sidibe, a Janeane Garofalo i C.S. Lee su u ulozi zabrinutih roditelja. </description>
+            <director>
+                <firstName>Richard</firstName>
+                <lastName>Wong</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Grant</firstName>
+                    <lastName>Rosenmeyer</lastName>
+                </actor>
+                <actor>
+                    <firstName>Hayden</firstName>
+                    <lastName>Szeto</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ravi</firstName>
+                    <lastName>Patel</lastName>
+                </actor>
+                <actor>
+                    <firstName>Gabourey</firstName>
+                    <lastName>Sidibe</lastName>
+                </actor>
+            </actors>
+            <duration>106</duration>
+            <genre>komedija, drama</genre>
+            <picturepath>assets\361827774.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/mjesto-za-nas/7184//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2355">
+            <title>Moja čudovišna obitelj 2 - sink</title>
+            <originaltitle>Happy Family 2</originaltitle>
+            <publisheddate/>
+            <description>Kako bi oslobodili Babu Yagu i Renfielda iz kandži lovca na  čudovišta, obitelj Wishbone se još jednom pretvara u neodoljivog vampira, Frankensteinovo čudovište, mumiju i vukodlaka. Naša Čudovišna obitelj uz potporu svojih triju kućnih ljubimaca ponovno obilazi svijet kako bi spasili prijatelje, stekli nova monstruozna poznanstva i konačno shvatili da nitko nije savršen – i da čak i oni s manama mogu pronaći sreću.</description>
+            <director>
+                <firstName>Holger</firstName>
+                <lastName>Tappe</lastName>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>animirani</genre>
+            <picturepath>assets\129422724.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/moja-cudovisna-obitelj-2-sink/7295//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2356">
+            <title>Mulan</title>
+            <originaltitle>Mulan</originaltitle>
+            <publisheddate/>
+            <description>Prema legendi, Hua Mulan, najstarija kći cijenjenog kineskog ratnika, po njegovoj je bolesti i starosti zauzela očevo mjesto u kineskoj imperijalnoj vojsci te je, pretvarajući se da je muškarac, spasila naciju u borbi protiv osvajača sa sjevera. Mulanina je hrabrost testirana na svakom koraku, ali njezina unutarnja snaga i ratnički potencijal pobjeđuju sve.</description>
+            <director>
+                <firstName>Niki</firstName>
+                <lastName>Caro</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Yifei</firstName>
+                    <lastName>Liu</lastName>
+                </actor>
+                <actor>
+                    <firstName>Donnie</firstName>
+                    <lastName>Yen</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jet</firstName>
+                    <lastName>Li</lastName>
+                </actor>
+            </actors>
+            <duration>115</duration>
+            <genre>avantura</genre>
+            <picturepath>assets\1306308822.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/mulan/6937//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2357">
+            <title>Neobični životi</title>
+            <originaltitle>The Specials</originaltitle>
+            <publisheddate/>
+            <description>Od redatelja velikog francuskog hita „Nedodirljivi“ kojeg je u domaćim kinima pogledalo preko 50 tisuća ljudi stiže nam novi filmski dragulj prikazan izvan konkurencije na filmskom festivalu u Cannesu – „Neobični životi“! Radnja filma fokusirana je na probleme modernog društva u čijem se srcu ponovno nalazi praktički kompletan svijet: socijalni radnici, volonteri i profesionalci u zdravstvu svim snagama pokušavaju se brinuti o tinejdžerima koji imaju problema s autizmom. Po običaju, dvojica redatelja u filmu svu svoju snagu usmjeravaju na ljubav prema čovječanstvu, na njihovo vjerovanje u život društva te pogotovo na humor kao prvu i posljednju crtu obrane međuljudskih odnosa</description>
+            <director>
+                <firstName>Olivier</firstName>
+                <lastName>Nakache, Éric Toledano</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Vincent</firstName>
+                    <lastName>Cassel</lastName>
+                </actor>
+                <actor>
+                    <firstName>Reda</firstName>
+                    <lastName>Kateb</lastName>
+                </actor>
+                <actor>
+                    <firstName>Hélene</firstName>
+                    <lastName>Vincent</lastName>
+                </actor>
+            </actors>
+            <duration>114</duration>
+            <genre>drama</genre>
+            <picturepath>assets\1070070511.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/neobicni-zivoti/7177//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2358">
+            <title>Novi mutanti</title>
+            <originaltitle>The New Mutants</originaltitle>
+            <publisheddate/>
+            <description>Priča o pet mladih ljudi s opasnim sposobnostima koji se drže pod zaštitom na tajnoj lokaciji protiv njihove volje. Svaki od njih nosi teret tajanstvene prošlosti i moći koju ne mogu kontrolirati. Kad shvate da su “pod zaštitom” u još većoj opasnosti, i bivaju progonjeni od nadnaravnog zla, njihovi najveći strahovi će se ostvariti.</description>
+            <director>
+                <firstName>Josh</firstName>
+                <lastName>Boone</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Anya</firstName>
+                    <lastName>Taylor-Joy</lastName>
+                </actor>
+                <actor>
+                    <firstName>Maisie</firstName>
+                    <lastName>Williams</lastName>
+                </actor>
+                <actor>
+                    <firstName>Alice</firstName>
+                    <lastName>Braga</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>SF, akcija, horor</genre>
+            <picturepath>assets\554193860.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/novi-mutanti/7182//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2359">
+            <title>Poslije svega sudar</title>
+            <originaltitle>After We Collided</originaltitle>
+            <publisheddate/>
+            <description>Nakon burnog početka veze i šokantnog otkrića, Tessa i Hardin moraju pronaći način da nastave svoju romansu. No, može li ljubav koja ne priznaje granice doista opstati? Tessa polako počinje uviđati kako bi mogla izgubiti sve. Hardin shvaća da nema što izgubiti – osim nje. Je li se doista spreman promijeniti zbog ljubavi? Koliko je ona spremna opraštati i, još važnije, sviđa li joj se doista slika budućnosti s Hardinom?</description>
+            <director>
+                <firstName>Roger</firstName>
+                <lastName>Kumble</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Candice</firstName>
+                    <lastName>Sprouse</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>Drama, romantični</genre>
+            <picturepath>assets\728699184.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/poslije-svega-sudar/7286//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2360">
+            <title>Predivan život</title>
+            <originaltitle>La Belle Epoque</originaltitle>
+            <publisheddate/>
+            <description>•	Najbolja sporedna glumica (Fanny Ardant)
+•	Najbolji originalni scenarij
+•	Najbolja scenografija
+
+Glavni lik ove simpatične romantične komedije je Victor kojem se život u potpunosti preokrene onog dana kada mu Antoine, inače briljantni poduzetnik, ponudi uživanje u jedinstvenoj atrakciji: miješajući kazališnu umjetnost s povijesnom rekonstrukcijom, agencija čiji je Antoine vlasnik svojim klijentima daje priliku da se vrate u koje god žele razdoblje njihovih života u prošlosti. Victor će izabrati nanovo proživjeti najbolji tjedan svoga života – onaj kada je, četrdeset godina ranije, upoznao svoju najveću ljubav…</description>
+            <director>
+                <firstName>Nicolas</firstName>
+                <lastName>Bedos</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Fanny</firstName>
+                    <lastName>Ardant</lastName>
+                </actor>
+                <actor>
+                    <firstName>Daniel</firstName>
+                    <lastName>Auteuil</lastName>
+                </actor>
+                <actor>
+                    <firstName>Doria</firstName>
+                    <lastName>Tillier</lastName>
+                </actor>
+                <actor>
+                    <firstName>Guillaume</firstName>
+                    <lastName>Canet</lastName>
+                </actor>
+            </actors>
+            <duration>115</duration>
+            <genre>romantična komedija</genre>
+            <picturepath>assets\1793908486.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/predivan-zivot/7178//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2361">
+            <title>Priča sa zapadne strane</title>
+            <originaltitle>West Side Story</originaltitle>
+            <publisheddate/>
+            <description>Adaptacija kultnog mjuzikla je zapravo adaptirana moderna Shakespeareova tragedija Romeo i Julija na ulicama New Yorka, a donosi priču o ljubavi i rivalstvu dvije tinejdžerske bande različitog etničkog podrijetla.</description>
+            <director>
+                <firstName>Steven</firstName>
+                <lastName>Spielberg</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Ansel</firstName>
+                    <lastName>Elgort</lastName>
+                </actor>
+                <actor>
+                    <firstName>Rachel</firstName>
+                    <lastName>Zegler</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ariana</firstName>
+                    <lastName>DeBose</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>drama, mjuzikl</genre>
+            <picturepath>assets\1695198502.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/prica-sa-zapadne-strane/7301//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2362">
+            <title>Princ otkriva Ameriku 2</title>
+            <originaltitle>Coming 2 America</originaltitle>
+            <publisheddate/>
+            <description>Nakon toliko godina, originalni film je i dalje ikona pop kulture. U nastavku se Eddie Murphy vraća kao princ Akeem dok Arsenio Hall također ponavlja ulogu prinčeve desne ruke. Radnja filma se ovog puta vrti oko Akeema koji stiže u Ameriku kako bi pronašao svog davno izgubljenog sina, prestolonasljednika fiktivne države Zamunda. Zvjezdanoj se ekipi ovog puta pridružio i popularni voditelj i komičar Arsenio Hall.</description>
+            <director>
+                <firstName>Craig</firstName>
+                <lastName>Brewer</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Eddie</firstName>
+                    <lastName>Murphy</lastName>
+                </actor>
+                <actor>
+                    <firstName>Arsenio</firstName>
+                    <lastName>Hall</lastName>
+                </actor>
+                <actor>
+                    <firstName>Wesley</firstName>
+                    <lastName>Snipes</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jermaine</firstName>
+                    <lastName>Fowler</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>komedija</genre>
+            <picturepath>assets\1187080463.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/princ-otkriva-ameriku-2/7299//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2363">
+            <title>Prizivanja zla: Đavo me je naterao</title>
+            <originaltitle>The Conjuring: The Devil Made Me Do It</originaltitle>
+            <publisheddate/>
+            <description>Prizivanje Zla: Đavo me je naterao je sedmi film iz sveta Prizivanja, najduže i  najpoznatije horor franšize u svetu.
+
+Prizivanje Zla otkriva zastrašujuću priču o teroru, ubistvu i nepoznatom zlu koje  je šokiralo čak i iskusne istraživače paranormalnog Eda i Loren Varen. Jedan  od njihovih senzacionalnijih slučajeva započinje borbom za dušu jednog mladića, i  odvodi ih daleko od svega što su ikad pre videli, pa će se prvi put u istoriji SAD-a optuženi za ubistvo braniti opsednošću demonom. Patrik Vilson i  Vera Farmig se vraćaju kao Ed i Loren Varen, ovog puta pod rediteljskom  palicom Majkla Čivsa.</description>
+            <director>
+                <firstName>Michael</firstName>
+                <lastName>Chaves</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Vera</firstName>
+                    <lastName>Farmiga</lastName>
+                </actor>
+                <actor>
+                    <firstName>Patrick</firstName>
+                    <lastName>Wilson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Julian</firstName>
+                    <lastName>Hilliard</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>horor, triler</genre>
+            <picturepath>assets\1219741492.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/prizivanja-zla-djavo-me-je-naterao/7272//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2364">
+            <title>Radioaktivna</title>
+            <originaltitle>Radioactive</originaltitle>
+            <publisheddate/>
+            <description>Radioactive donosi istinitu priču o znanstvenici rođenoj 1867. u Varšavi koja je u Francusku došla studirati i ondje upoznala budućeg supruga. Pierre i Marie Curie zajedno su otkrili radij i prodrmali tadašnje znanstvene krugove.
+Njih dvoje 1903. godine osvajaju Nobelovu nagradu za otkrivanje radioaktivnosti, nakon čega Pierre ubrzo umire. Nakon njegove smrti, Marie se počinje još intenzivnije baviti znanošću te osvaja drugu Nobelovu nagradu za svoja otkrića koja su promijenila svijet.</description>
+            <director>
+                <firstName>Marjane</firstName>
+                <lastName>Satrapi</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Rosamund</firstName>
+                    <lastName>Pike</lastName>
+                </actor>
+                <actor>
+                    <firstName>Anya</firstName>
+                    <lastName>Taylor-Joy</lastName>
+                </actor>
+                <actor>
+                    <firstName>Sam</firstName>
+                    <lastName>Riley</lastName>
+                </actor>
+            </actors>
+            <duration>109</duration>
+            <genre>biografija, drama</genre>
+            <picturepath>assets\2082949294.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/radioaktivna/6893//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2365">
+            <title>Skandalozno ponašanje</title>
+            <originaltitle>Misbehaviour</originaltitle>
+            <publisheddate/>
+            <description>Godine 1970. natjecanje Miss svijeta održano je u Londonu, a domaćin ceremonije bio je američki legendarni komičar Bob Hope. U to je vrijeme natjecanje Miss svijeta s preko stotinu milijuna gledatelja bio najgledaniji televizijski program na svijetu. Uz tvrdnju da natjecanja u ljepoti omalovažavaju žene, novi pokret naziva „Pokret za ženska prava“ gotovo je preko noći postigao slavu nakon što su njegovi članovi potpuno nenajavljeno izašli na pozornicu i na taj način prekinuli prijenos natjecanja uživo. I ne samo to: kada je natjecanje nastavljeno, rezultat istoga izazvao je snažne reakcije: pobjednica nije bila favorizirana Šveđanka već miss Grenade – prva crnkinja u povijesti koja je okrunjena kao Miss svijeta. U samo nekoliko sati, globalno gledateljstvo diljem svijeta svjedočilo je nezamislivim posljedicama koje su uslijedile nakon šokantnog obrata…</description>
+            <director>
+                <firstName>Philippa</firstName>
+                <lastName>Lowthorpe</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Keira</firstName>
+                    <lastName>Knightley</lastName>
+                </actor>
+                <actor>
+                    <firstName>Gugu</firstName>
+                    <lastName>Raw</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jessie</firstName>
+                    <lastName>Buckley</lastName>
+                </actor>
+                <actor>
+                    <firstName>Rhys</firstName>
+                    <lastName>Ifans</lastName>
+                </actor>
+                <actor>
+                    <firstName>Greg</firstName>
+                    <lastName>Kinnear</lastName>
+                </actor>
+            </actors>
+            <duration>106</duration>
+            <genre>drama</genre>
+            <picturepath>assets\628690761.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/skandalozno-ponasanje/7180//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2366">
+            <title>Smrt na Nilu</title>
+            <originaltitle>Death on the Nile</originaltitle>
+            <publisheddate/>
+            <description>Mlada, bogata i lijepa Linnet Ridgeway ima gotovo sve. Ono što nema, uzme. Na primjer, zaručnika svoje najbolje prijateljice Jackie. Kad se Linnet i njezin novi dragi otpute na medeni mjesec krstareći Nilom, ništa ne može sačuvati Jackie od njezinih demona. I nitko - čak ni čuveni detektiv Hercule Poirot - ne može spriječiti zločin iz strasti.</description>
+            <director>
+                <firstName>Kenneth</firstName>
+                <lastName>Branagh</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Kenneth</firstName>
+                    <lastName>Branagh</lastName>
+                </actor>
+                <actor>
+                    <firstName>Gal</firstName>
+                    <lastName>Gadot</lastName>
+                </actor>
+                <actor>
+                    <firstName>Armie</firstName>
+                    <lastName>Hammer</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>misterija, drama</genre>
+            <picturepath>assets\246001407.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/smrt-na-nilu/7291//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2367">
+            <title>Snežana i 7 patuljaka - sinh</title>
+            <originaltitle>Red Shoes and the Seven Dwarfs</originaltitle>
+            <publisheddate/>
+            <description>Poznata priča u novom izdanju! Ovoga puta čarolija se ne skriva u jabuci 
+nego u magičnoj crvenoj cipelici pomoću koje će se princeza osloboditi kletve
+koja ju je pretvorila u patuljka! Velika avantura, puna smeha</description>
+            <director>
+                <firstName>Sung-ho</firstName>
+                <lastName>Hong</lastName>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>animirani</genre>
+            <picturepath>assets\519070485.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/snezana-i-7-patuljaka-sinh/7268//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2368">
+            <title>Soba želja</title>
+            <originaltitle>The Room</originaltitle>
+            <publisheddate/>
+            <description>Kate i Matt mladi su njujorški par u svojim tridesetima. On je ilustrator i crtač stripova, a ona je zasićena poslom u velikom odvjetničkom uredu. U potrazi za autentičnijim i zdravijim životom, napuštaju grad i useljavaju se u staru kuću u New Hampshireu. Ubrzo tamo otkrivaju tajnu skrivenu sobu koja ima izvanrednu moć da materijalizira sve što požele. Poput djece u trgovini slatkiša, oni provode dane i noći prepuštajući se svakoj svojoj želji za materijalnim. A onda jednog dana požele dijete ... malenog dječaka. 
+Ispod prividnog stanja blaženstva, sretni par vrebaju mračne sile i neke od tih ostvarenih želja mogu imati strašne posljedice: sve materijalne kreacije prostorije ne mogu napustiti kuću bez da se troše. Soba bi tako mogla pretvoriti njihov san u najgoru noćnu moru ...</description>
+            <director>
+                <firstName>Christian</firstName>
+                <lastName>Volckman</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Olga</firstName>
+                    <lastName>Kurylenko</lastName>
+                </actor>
+                <actor>
+                    <firstName>Kevin</firstName>
+                    <lastName>Janssens</lastName>
+                </actor>
+                <actor>
+                    <firstName>Joshua</firstName>
+                    <lastName>Wilson</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>drama, misterij, SF</genre>
+            <picturepath>assets\1365972949.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/soba-zelja/7204//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2369">
+            <title>Stepinac: Kardinal i njegova savjest</title>
+            <originaltitle>Stepinac: Kardinal i njegova savjest</originaltitle>
+            <publisheddate/>
+            <description>Gdje god da dotaknete hrvatsku povijest u posljednjih osamdesetak godina, u njoj ćete negdje, na neki način, naići na - Alojzija Stepinca. Dokumentarni film „Stepinac - Kardinal i njegova savjest“ priča je o životu Alojzija Stepinca, o tome kako se kao čovjek i zagrebački nadbiskup nosio s  najvećim izazovima 20. stoljeća, o globalnom i univerzalnom značaju njegova djela, o korijenu kontroverzi koje ga prate do današnjih dana, o relevantnosti njegova primjera i univerzalnosti njegovih poruka u današnjem vremenu. To je ujedno i priča o hrvatskoj i europskoj povijesti 20. stoljeća, kao neizostavnom kontekstu djelovanja.</description>
+            <director>
+                <firstName>Višnja</firstName>
+                <lastName>Starešina</lastName>
+            </director>
+            <actors/>
+            <duration>87</duration>
+            <genre>dokumentarni</genre>
+            <picturepath>assets\814193615.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/stepinac-kardinal-i-njegova-savjest/7170//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2370">
+            <title>Sumrak u bečkom haustoru</title>
+            <originaltitle>Sumrak u bečkom haustoru</originaltitle>
+            <publisheddate/>
+            <description>Nizom kulturnih manifestacija grad Beč obeležava pedeset godina od dolaska gastarbajtera iz socijalističke Jugoslavije u Austriju. Austriji je bila potrebna radna snaga, pa je ugovorom dogovoren prijem velikog broja radnika iz SFRJ. 
+
+U isto vreme nova vlast, u skladu sa politikom povećanja poreza i smanjenjem socijalnih davanja, uvodi nove poreze taksistima. Nameti su veliki, te je mnogim taksistima budućnost ugrožena. Ovo naručito pogađa ljude sa Balkana, pošto veliki broj njih živi od taksija. 
+
+Sa tim problemom se suočavaju pisac Darko Markov i dvojica taksista Milenko i Goran. Njih trojicu na različite načine povezuje vračara Vladica iz istočne Srbije. Iza raskošnih bečkih fasada krije se svet autsajdera i očajnika o kojima Markov pravi predstavu.</description>
+            <director>
+                <firstName>Mladen</firstName>
+                <lastName>Đorđević</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Darko</firstName>
+                    <lastName>Markov</lastName>
+                </actor>
+                <actor>
+                    <firstName>Milenko</firstName>
+                    <lastName>Pavlović</lastName>
+                </actor>
+                <actor>
+                    <firstName>Vladica</firstName>
+                    <lastName>Milosavljević</lastName>
+                </actor>
+            </actors>
+            <duration>110</duration>
+            <genre>dokumentarni</genre>
+            <picturepath>assets\477655447.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/sumrak-u-beckom-haustoru/7174//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2371">
+            <title>Sunđer Bob Kockalone Film: Sunđer u bekstvu - sinh</title>
+            <originaltitle>The SpongeBob Movie: Sponge on the Run</originaltitle>
+            <publisheddate/>
+            <description>Sunđer Bob Kockalone, Patrik zvezda i ostatak družine iz Koralova dolaze na veliko platno u prvom ikada CGI flmu o Sunđer Bobu. Kada nestane Gari, voljeni ljubimac Sunđer Boba, on i Patrik kreću u epsku avanturu u Izgubljeni Grad Atlantk Sitja kako bi vratli Garija kući. Dok se bore sa svim zadovoljstvima i opasnostma ove urnebesne spasilačke misije, Sunđer Bob i njegovi drugari dokazaće da ne postoji ništa snažnije od sile prijateljstva</description>
+            <director>
+                <firstName>Tim</firstName>
+                <lastName>Hill</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Milan</firstName>
+                    <lastName>Antonić</lastName>
+                </actor>
+                <actor>
+                    <firstName>Tomaš</firstName>
+                    <lastName>Sarić</lastName>
+                </actor>
+                <actor>
+                    <firstName>Snežana</firstName>
+                    <lastName>Nešković</lastName>
+                </actor>
+                <actor>
+                    <firstName>Branislav</firstName>
+                    <lastName>Platša</lastName>
+                </actor>
+                <actor>
+                    <firstName>Marijana</firstName>
+                    <lastName>Živanović</lastName>
+                </actor>
+                <actor>
+                    <firstName>Pavle</firstName>
+                    <lastName>Jerinić</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>animirani</genre>
+            <picturepath>assets\114077628.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/sundjer-bob-kockalone-film-sundjer-u-bekstvu-sinh/7238//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2372">
+            <title>Tajni vrt</title>
+            <originaltitle>The Secret Garden</originaltitle>
+            <publisheddate/>
+            <description>Meri Lenoks  je devetogodišnjakinja kojoj u epidemiji kolere u Indiji umiru oba roditelja, a ona ostaje sama i zaboravljena u njihovoj kolonijalnoj vili. Kad je naposletku pronađu britanski susedi i vojnici, ispostavi se da se za suvonjavu, razmaženu i mrzovoljnu Meri nito ne želi brinuti, pa je ubrzo pošalju na brod za Englesku, gde bi je trebao udomiti najbliži rođak kog Meri nikada nije upoznala - gospodin Krejvn (Colin Firth). Budući da ga u Engleskoj sve podseća na smrt voljene žene, gospodin Krejvn najčešće nije u zemlji već putuje svetom pa Meri  tako ostaje sasvim  sama na njegovom  zabačenom i turobnom  imanju na severu Engleske. Ipak jednoga dana Meri  u vrtnom zidu otkriva zaključana vrata obrasla bršljanom. Događaji koji su potom usledili potpuno su promenili njen život.</description>
+            <director>
+                <firstName>Marc</firstName>
+                <lastName>Munden</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Dixie</firstName>
+                    <lastName>Egerickx</lastName>
+                </actor>
+                <actor>
+                    <firstName>Colin</firstName>
+                    <lastName>Firth</lastName>
+                </actor>
+                <actor>
+                    <firstName>Julie</firstName>
+                    <lastName>Walters</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>porodična avantura, fantazija</genre>
+            <picturepath>assets\753554563.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/tajni-vrt/7195//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2373">
+            <title>Takav si kakav si</title>
+            <originaltitle>Come As You Are</originaltitle>
+            <publisheddate/>
+            <description>Remake feel-good nagrađenog belgijskog filma HASTA LA VISTA iz 2011. godine, koji je inspirisan istinitom pričom o trojici muškaraca sa invaliditetom koji odlaze na putovanje koje će im promeniti život. Tri muškaraca sa invaliditetom beže od svojih brižnih roditelja u bordel u Montrealu kako bi izgubili nevinost i dokazali da mogu biti samostalni. U ulozi negovateljice, koja im je ujedno i vozačica je Gabore Sidibe, a Žanin Grofolo i C.S. Li su u ulozi zabrinutih roditelja.</description>
+            <director>
+                <firstName>Richard</firstName>
+                <lastName>Wong</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Grant</firstName>
+                    <lastName>Rosenmeyer</lastName>
+                </actor>
+                <actor>
+                    <firstName>Hayden</firstName>
+                    <lastName>Szeto</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ravi</firstName>
+                    <lastName>Patel</lastName>
+                </actor>
+            </actors>
+            <duration>106</duration>
+            <genre>komedija</genre>
+            <picturepath>assets\1201871619.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/takav-si-kakav-si/7267//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2374">
+            <title>Tenet</title>
+            <originaltitle>Tenet</originaltitle>
+            <publisheddate/>
+            <description>John David Washington glavni je protagonist novog Sci-Fi akcijskog spektakla Christophera Nolana, kratkog ali znakovitog naziva “Tenet.” Naoružan samo jednom riječju - Tenet - i boreći se za opstanak cijelog svijeta, glavni junak priče kreće kroz polumračni svijet međunarodne špijunaže na misiji koja će se odvijati u nečemu izvan stvarnog vremena. Inverzija. Nije putovanje kroz vrijeme.</description>
+            <director>
+                <firstName>Christopher</firstName>
+                <lastName>Nolan</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>John</firstName>
+                    <lastName>Washington</lastName>
+                </actor>
+                <actor>
+                    <firstName>Robert</firstName>
+                    <lastName>Pattinson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Elizabeth</firstName>
+                    <lastName>Debicki</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>Akcija, triler</genre>
+            <picturepath>assets\263261442.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/tenet/7225//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2375">
+            <title>Tesla</title>
+            <originaltitle>Tesla</originaltitle>
+            <publisheddate/>
+            <description>Životna priča čovjeka koji je kako kažu “izmislio 20. stoljeće“ će kronološki pratiti Tesline američke godine, nizanje njegovih ključnih otkrića i sukob s Thomasom Alvom Edisonom.</description>
+            <director>
+                <firstName>Michael</firstName>
+                <lastName>Almereyda</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Ethan</firstName>
+                    <lastName>Hawke</lastName>
+                </actor>
+                <actor>
+                    <firstName>Kyle</firstName>
+                    <lastName>MacLachlan</lastName>
+                </actor>
+                <actor>
+                    <firstName>Eve</firstName>
+                    <lastName>Hewson</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>biografski, drama</genre>
+            <picturepath>assets\1541797614.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/tesla/7285//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2376">
+            <title>The Beatles: Get Back</title>
+            <originaltitle>The Beatles: Get Back</originaltitle>
+            <publisheddate/>
+            <description>Film donosi neviđene scene sa snimanja albuma Let it be, ujedno i posljednjeg albuma legendarnih Beatlesa objavljenog 1970. godine. Redatelj Peter Jackson je koristio 55 sati neobjavljenih snimaka, uključujući snimku jednog od najlegendarnijih live nastupa svih vremena održanog 1969. godine na krovu zgrade Apple Corps., koje su sve restorirane i renderirane u najvećoj mogućoj kvaliteti. Film prikazuje toplinu, prijateljstvo i humor koji je vladao u Beatlesima na tom snimanju. Potpuno suprotno od dosadašnjih teza kako su između članova postojale visoke tenzije i da su se iz tog razloga The Beatles i raspali mjesec dana prije nego što je album objavljen.</description>
+            <director>
+                <firstName>Peter</firstName>
+                <lastName>Jackson</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>John</firstName>
+                    <lastName>Lennon</lastName>
+                </actor>
+                <actor>
+                    <firstName>Paul</firstName>
+                    <lastName>McCartney</lastName>
+                </actor>
+                <actor>
+                    <firstName>George</firstName>
+                    <lastName>Harrison</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ringo</firstName>
+                    <lastName>Starr</lastName>
+                </actor>
+                <actor>
+                    <firstName>Yoko</firstName>
+                    <lastName>Ono</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>dokumentarni, glazbeni</genre>
+            <picturepath>assets\2051508773.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/the-beatles-get-back/7287//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2377">
+            <title>The French Dispatch</title>
+            <originaltitle>The French Dispatch</originaltitle>
+            <publisheddate/>
+            <description>Priča počinje smrću glavnog urednika, kada se redakcija okuplja kako bi odabrala tri priče koje će objaviti u komemorativnom izdanju časopisa. A one pripovijedaju o umjetniku osuđenom na doživotnu kaznu zatvora zbog dvostrukog ubojstva, o studentskim neredima i o otmici koju je razriješio šef kuhinje.</description>
+            <director>
+                <firstName>Wes</firstName>
+                <lastName>Anderson</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Bill</firstName>
+                    <lastName>Murray</lastName>
+                </actor>
+                <actor>
+                    <firstName>Timothee</firstName>
+                    <lastName>Chalamet</lastName>
+                </actor>
+                <actor>
+                    <firstName>Frances</firstName>
+                    <lastName>McDormand</lastName>
+                </actor>
+                <actor>
+                    <firstName>Elisabeth</firstName>
+                    <lastName>Moss</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jeff</firstName>
+                    <lastName>Goldblum</lastName>
+                </actor>
+                <actor>
+                    <firstName>Tilda</firstName>
+                    <lastName>Swinton</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>komedija, drama</genre>
+            <picturepath>assets\769261894.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/the-french-dispatch/7302//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2378">
+            <title>The King`s Man: Početak</title>
+            <originaltitle>The Kings Man</originaltitle>
+            <publisheddate/>
+            <description>Grupa najvećih kriminalaca i tirana okuplja se kako bi isplanirala rat u cilju uništenja miliona ljudi. Jedan čovek mora će da se utrkuje s vremenom kako bi ih zaustavio</description>
+            <director>
+                <firstName>Matthew</firstName>
+                <lastName>Vaughn</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Gemma</firstName>
+                    <lastName>Arterton</lastName>
+                </actor>
+                <actor>
+                    <firstName>Matthew</firstName>
+                    <lastName>Goode</lastName>
+                </actor>
+                <actor>
+                    <firstName>Aaron</firstName>
+                    <lastName>Taylor-Johnson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ralph</firstName>
+                    <lastName>Fiennes</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>akcija, avantura, komedija</genre>
+            <picturepath>assets\688870725.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/the-king-s-man-pocetak/7263//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2379">
+            <title>Tiho mesto 2</title>
+            <originaltitle>A Quiet Place: Part II</originaltitle>
+            <publisheddate/>
+            <description>Nakon smrtonosnih događaja koji su se odigrali, porodica Abot prinuđena je da se suoči sa strahotama spoljašnjeg sveta, dok njeni članovi nastavljaju borbu za opstanak u tišini. Prisiljeni da se upuste u nepoznato, brzo shvataju da stvorenja koja ih love ukoliko ispuste zvuk nisu jedina pretnja koja vreba</description>
+            <director>
+                <firstName>John</firstName>
+                <lastName>Krasinski</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Cillian</firstName>
+                    <lastName>Murphy</lastName>
+                </actor>
+                <actor>
+                    <firstName>Emily</firstName>
+                    <lastName>Blunt</lastName>
+                </actor>
+                <actor>
+                    <firstName>Noah</firstName>
+                    <lastName>Jupe</lastName>
+                </actor>
+            </actors>
+            <duration>98</duration>
+            <genre>horor</genre>
+            <picturepath>assets\163899746.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/tiho-mesto-2/6950//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2380">
+            <title>Top Gun: Maverick</title>
+            <originaltitle>Top Gun: Maverick</originaltitle>
+            <publisheddate/>
+            <description>Nakon više od trideset godina služenja kao jedan od najboljih pilota mornarice, Pete "Maverick" Mitchell (Tom Cruise) je tamo gdje pripada, izbjegava napredovanje u čin koji bi ga "prizemljio". Kad se nađe kako obučava odred mladih pilota Top Gun-a za specijaliziranu misiju, kakvu još niti jedan pilot nije vidio, Maverick susreće Bradleyja Bradshawa (Miles Teller), sina svog pokojnog prijatelja, Nicka Bradshawa, zvanog "Goose". Suočavajući se s neizvjesnom budućnošću i s duhovima svoje prošlosti, Maverick se uvlači u sukob s vlastitim najdubljim strahovima, koji će kulminirati misijom koja zahtijeva konačnu žrtvu od onih koji će biti izabrani da uzlete. </description>
+            <director>
+                <firstName>Joseph</firstName>
+                <lastName>Kosinski</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Tom</firstName>
+                    <lastName>Cruise</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jennifer</firstName>
+                    <lastName>Connelly</lastName>
+                </actor>
+                <actor>
+                    <firstName>Val</firstName>
+                    <lastName>Kilmer</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>akcija, avantura</genre>
+            <picturepath>assets\1361682400.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/top-gun-maverick/7222//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2381">
+            <title>Ubojice s razglednice</title>
+            <originaltitle>The Postcard Killings</originaltitle>
+            <publisheddate/>
+            <description>Njujorški detektiv istražuje smrt svoje kćeri koja je brutalno ubijena dok je bila na medenom mjesecu u Londonu te zatraži pomoć skandinavske novinarke kada slične sudbine zadese i druge parove širom Europe. Jedini trag ubojstvu su razglednice s fotografijama koje naizgled slučajni novinari šalju od narcističkog ubojice, najavljujući sljedeći grozan zločin. </description>
+            <director>
+                <firstName>Danis</firstName>
+                <lastName>Tanović</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Jeffrey</firstName>
+                    <lastName>Morgan</lastName>
+                </actor>
+                <actor>
+                    <firstName>Famke</firstName>
+                    <lastName>Janssen</lastName>
+                </actor>
+                <actor>
+                    <firstName>Naomi</firstName>
+                    <lastName>Battrick</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>kriminalistički, drama, misterij</genre>
+            <picturepath>assets\1768218866.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/ubojice-s-razglednice/7187//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2382">
+            <title>Unhinged</title>
+            <originaltitle>Unhinged</originaltitle>
+            <publisheddate/>
+            <description>Svakodnevni odlazak na posao za Rachel se pretvorio u noćnu moru kad je u prometnoj gužvi naletjela na stranca s kojim je započela svađu u kojoj mu se odbila ispričati. Jednostavno se našla u krivo vrijeme na krivom mjestu, a on će tada pokušati uništiti sve do čega joj je stalo. Razočaran u život, psihički nestabilan i nasilan, stranac se odlučuje za osvetu, te je počinje pratiti po cijelom gradu u namjeri da ubije nju i njezine najbliže.</description>
+            <director>
+                <firstName>Derrick</firstName>
+                <lastName>Borte</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Russell</firstName>
+                    <lastName>Crowe</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jimmi</firstName>
+                    <lastName>Simpson</lastName>
+                </actor>
+                <actor>
+                    <firstName>Caren</firstName>
+                    <lastName>Pistorius</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>triler</genre>
+            <picturepath>assets\1097880191.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/unhinged/7284//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2383">
+            <title>Veliki crveni pas Clifford - sink</title>
+            <originaltitle>Clifford The Big Red Dog</originaltitle>
+            <publisheddate/>
+            <description>Kad srednjoškolka Emily Elizabeth poželi da njeno sićušno, crveno štene poraste veliko i snažno, ne očekuje da će se u svom malom stanu u New Yorku probuditi pored najvećeg psa na svijetu! U nastojanju da zadrži svog voljenog kućnog ljubimca, Emily namjerava pronaći stručnjaka za životinje za kojeg se nada da će uspjeti vratiti Clifforda u normalnu veličinu. Dok u toj potrazi pretražuje grad zajedno sa svojim neodgovornim ujakom Caseyjem, školskim kolegom Owenom i Cliffordom, glas o Cliffordovoj veličini privlači pažnju zlog znanstvenika koji ga pokušava prisvojiti.</description>
+            <director>
+                <firstName>Walt</firstName>
+                <lastName>Becker</lastName>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>animirani</genre>
+            <picturepath>assets\805569707.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/veliki-crveni-pas-clifford-sink/7282//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2384">
+            <title>Vještice Roalda Dahla</title>
+            <originaltitle>The Witches</originaltitle>
+            <publisheddate/>
+            <description>Ovo nije bajka. Ovo je o pravim pravcatim vješticama! Temeljen na istoimenom klasiku Roalda Dahla, i u režiji Oscarom® nagrađenog Roberta Zemeckisa.
+
+Maštovita, zabavna i doista zastrašujuća priča o dječaku koji susreće prave vještice!</description>
+            <director>
+                <firstName>Robert</firstName>
+                <lastName>Zemeckis</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Anne</firstName>
+                    <lastName>Hathaway</lastName>
+                </actor>
+                <actor>
+                    <firstName>Octavia</firstName>
+                    <lastName>Spencer</lastName>
+                </actor>
+                <actor>
+                    <firstName>Stanley</firstName>
+                    <lastName>Tucci</lastName>
+                </actor>
+                <actor>
+                    <firstName>Chris</firstName>
+                    <lastName>Rock</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>avantura</genre>
+            <picturepath>assets\1133245593.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/vjestice-roalda-dahla/7290//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2385">
+            <title>Voyagers</title>
+            <originaltitle>Voyagers</originaltitle>
+            <publisheddate/>
+            <description>U skoroj budućnosti u kojoj je ljudska rasa u opasnosti, skupina od tridesetak mladića i žena poslano je na ekspediciju u svemir kako bi kolonizirali novootkriveni planet. Skupina je prethodno trenirana upravo za tu svrhu, suzbijenih emocionalnih impulsa i pojačane inteligencije. Međutim, kad posada otkrije uznemirujuće tajne o misiji, kreću prkositi toj obuci i počinju istraživati svoje najprimitivnije prirodne nagone i impulse. Dok se život na brodu pretvara u kaos, prožima ih strah, požuda i glad za moći.</description>
+            <director>
+                <firstName>Neil</firstName>
+                <lastName>Burger</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Colin</firstName>
+                    <lastName>Farrell</lastName>
+                </actor>
+                <actor>
+                    <firstName>Tye</firstName>
+                    <lastName>Sheridan</lastName>
+                </actor>
+                <actor>
+                    <firstName>Lily-Rose</firstName>
+                    <lastName>Depp</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>SF</genre>
+            <picturepath>assets\1234053321.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/voyagers/7298//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2386">
+            <title>Wonder Woman 1984</title>
+            <originaltitle>Wonder Woman 1984</originaltitle>
+            <publisheddate/>
+            <description>Za razliku od prvog filma čija je radnja smještena u vrijeme Drugog svjetskog rata, nastavak priče o Diani Prince smješten je, kako i naslov kaže, u osamdesete godine prošlog stoljeća. 
+Ovaj film nije napravljen da se čini kao nastavak, zato je ovo i potpuno novo utjelovljenje Wonder Woman. </description>
+            <director>
+                <firstName>Patty</firstName>
+                <lastName>Jenkins</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Gal</firstName>
+                    <lastName>Gadot</lastName>
+                </actor>
+                <actor>
+                    <firstName>Pedro</firstName>
+                    <lastName>Pascal</lastName>
+                </actor>
+                <actor>
+                    <firstName>Chris</firstName>
+                    <lastName>Pine</lastName>
+                </actor>
+                <actor>
+                    <firstName>Kristen</firstName>
+                    <lastName>Wiig</lastName>
+                </actor>
+            </actors>
+            <duration>0</duration>
+            <genre>akcija, avantura</genre>
+            <picturepath>assets\1527617486.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/wonder-woman-1984/7214//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2387">
+            <title>Za smrt nema vremena</title>
+            <originaltitle>No Time To Die</originaltitle>
+            <publisheddate/>
+            <description>Jedna od najdugovječnijih filmskih franšiza u povijesti filma dobiva nastavak jer se tajni agent James Bond vraća na veliko filmsko platno u travnju. Karizmatičnog agenta britanske tajne službe MI6, kodnog naziva 007, portretirat će Daniel Craig, što će mu biti peta uloga tajnog agenta.
+Bond je napustio aktivnu službu no njegova „penzija“ je kratkog vijeka. Dugogodišnji prijatelj iz CIA-e Felix Leiter od njega traži pomoć u borbi protiv misterioznog zločinca naoružanog opasnom novom tehnologijom. 
+Snimanje novog filma odvijalo se na lokacijama u Londonu, Italiji, Jamajci te u Norveškoj. Producenti filma izrazili su svoje zadovoljstvo s činjenicom da se Bond vraća na Jamajku, na mjesto na kojem je Fleming stvorio legendarnog agenta.
+Novi film o Bondu, 25. po redu, režira Cary Joji Fukunaga, scenarij pišu Neal Purvis, Robert Wade, Scott Z. Burns, Phoebe Waller-Bridge i Fukunaga. Pored Craig-a u ponovljenim ulogama vraćaju se i Ralph Fiennes, Naomie Harris, Rory Kinnear, Léa Seydoux, Ben Whishaw i Jeffrey Wright, a nova lica koja će se pojaviti u špijunskoj kampanji uključuju Rami Malek, Ana de Armas, Dali Benssalah, Davida Dencik, Lashana Lynch i Billy Magnussen.</description>
+            <director>
+                <firstName>Cary</firstName>
+                <lastName>Joji Fukunaga</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Daniel</firstName>
+                    <lastName>Craig</lastName>
+                </actor>
+                <actor>
+                    <firstName>Rami</firstName>
+                    <lastName>Malek</lastName>
+                </actor>
+                <actor>
+                    <firstName>Léa</firstName>
+                    <lastName>Seydoux</lastName>
+                </actor>
+                <actor>
+                    <firstName>Lashana</firstName>
+                    <lastName>Lynch</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ben</firstName>
+                    <lastName>Whishaw</lastName>
+                </actor>
+                <actor>
+                    <firstName>Naomie</firstName>
+                    <lastName>Harris</lastName>
+                </actor>
+                <actor>
+                    <firstName>Jeffrey</firstName>
+                    <lastName>Wright</lastName>
+                </actor>
+                <actor>
+                    <firstName>Christoph</firstName>
+                    <lastName>Waltz</lastName>
+                </actor>
+                <actor>
+                    <firstName>Ralph</firstName>
+                    <lastName>Fiennes</lastName>
+                </actor>
+            </actors>
+            <duration>164</duration>
+            <genre>akcija</genre>
+            <picturepath>assets\523781075.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/za-smrt-nema-vremena/7137//1</link>
+            <startdate/>
+        </movie>
+        <movie id="2388">
+            <title>Zaboravljeni princ</title>
+            <originaltitle>Le prince oublie</originaltitle>
+            <publisheddate/>
+            <description>Svako veče pre odlaska u krevet razvedeni Džibi priča price svojoj sestričini I tako zajedno putuju u daleke svetove. Sve dok jednom daleki svet ne dođe kod njih.</description>
+            <director>
+                <firstName>Michel</firstName>
+                <lastName>Hazanavicius</lastName>
+            </director>
+            <actors>
+                <actor>
+                    <firstName>Omar</firstName>
+                    <lastName>Sy</lastName>
+                </actor>
+                <actor>
+                    <firstName>Bérénice</firstName>
+                    <lastName>Bejo</lastName>
+                </actor>
+                <actor>
+                    <firstName>François</firstName>
+                    <lastName>Damiens</lastName>
+                </actor>
+            </actors>
+            <duration>102</duration>
+            <genre>avantura</genre>
+            <picturepath>assets\526278171.jpg</picturepath>
+            <link>http://www.blitz-cinestar.hr/root/zaboravljeni-princ/6925//1</link>
+            <startdate/>
+        </movie>
+    </movies>
+</movies>
